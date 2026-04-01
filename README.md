@@ -1,4 +1,4 @@
-# AQUA-SENSE CORE 🚰⚡
+# AQUA-SENSE CORE
 
 ### *Smart Infrastructure Monitoring & Real-Time Leak Detection*
 
@@ -9,21 +9,21 @@
 
 ---
 
-## 🌊 Overview
+## Overview
 
 **AQUA-SENSE CORE** is a next-generation IoT platform designed for high-precision water infrastructure monitoring. Leveraging advanced **Digital Signal Processing (DSP)** and real-time vibration analysis, the system identifies pipeline anomalies and leak signatures before they become critical failures.
 
 ---
 
-## 🛠️ High-Performance Architecture
+## High-Performance Architecture
 
-### 📊 Real-Time Signal Processing
+### Real-Time Signal Processing
 - **10kHz Sampling**: High-fidelity vibration data capture at the edge.
 - **FFT Analysis**: Instantaneous Fast Fourier Transform for frequency domain fingerprinting.
 - **Leak Detection Algorithm**: Multi-variance analysis checking for high-frequency (150-200Hz) anomalies.
 - **95% Confidence Level**: AI-calculated confidence score based on signal-to-noise ratios.
 
-### 🌐 Scalable Tech Stack
+### Scalable Tech Stack
 - **Dashboard**: Next.js 16 (App Router) + React 19.
 - **Styling**: Custom **Futuristic Neon UI** with CSS Glassmorphism.
 - **Visualization**: Non-blocking **Recharts** implementation for smooth 60fps data streaming.
@@ -31,7 +31,7 @@
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 - **Neon Alert Interface**: Instant visual feedback for leak detection with synchronized pulsing animations.
 - **Interactive Flow Map**: Visualize the data journey from **Edge (NodeMCU)** to **Cloud (AI Engine)**.
@@ -40,7 +40,7 @@
 
 ---
 
-## 🔧 Getting Started
+## Getting Started
 
 1. **Install Core Dependencies**
    ```bash
@@ -57,7 +57,7 @@
 
 ---
 
-## 📦 System Assets
+## System Assets
 
 | Asset | Description |
 |---|---|
